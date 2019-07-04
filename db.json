@@ -1,0 +1,446 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Disco Party",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Vue Users Group",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Orlando Dev Meetup",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Yoga Class",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Breathing Meditation",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Dancing Class",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "category": "animal welfare",
+      "organizer": {
+        "user": {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        }
+      },
+      "title": "Gregg's Event",
+      "description": "We'll do stuff",
+      "location": "Your House",
+      "date": "",
+      "time": "5:00",
+      "attendees": []
+    },
+    {
+      "id": 3920401,
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Joseph Mama"
+      },
+      "title": "Keger @ Weasel's",
+      "description": "Let's get knucked up boys n girls!",
+      "location": "Weasel's shack",
+      "date": "2019-07-05T21:31:00.000Z",
+      "time": "18:00",
+      "attendees": []
+    },
+    {
+      "id": 7788908,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Read a fuckin book ya moron",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7006048,
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Stupid Songs",
+      "description": "Let's write some dumb rhymes",
+      "location": "The Alley",
+      "date": "2019-07-04T18:49:00.000Z",
+      "time": "18:00",
+      "attendees": []
+    },
+    {
+      "id": 7785215,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "This is a recording",
+      "description": "",
+      "location": "Clement Park",
+      "date": "2019-07-12T18:51:00.000Z",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 9593949,
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Food is yum",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8704089,
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Chubby Women",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 896940,
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Anorexia Mixer",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6618323,
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Let's Barf!",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 9819940,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Mein Kampf Reading",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6083563,
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "JBP muther-humpers!",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6920259,
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Burn Witches (and Jews)",
+      "description": "",
+      "location": "Commons Park",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 4167424,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Butthole Tannings",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2604801,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Free Your Inner Butthole",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1686630,
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Scrub Your Neighbors' Anuses",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7574893,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Global Warming is a Farce",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    }
+  ]
+}

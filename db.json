@@ -441,6 +441,146 @@
       "date": "",
       "time": "",
       "attendees": []
+    },
+    {
+      "id": 1750421,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Skate Bob L Burger Park",
+      "description": "Best skatepark in Lafeyette, CO",
+      "location": "Bob L Burger Skatepark",
+      "date": "2019-08-19T00:12:00.000Z",
+      "time": "6:00",
+      "attendees": []
+    },
+    {
+      "id": 8944408,
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Lunch",
+      "description": "A meal in the middle of the day",
+      "location": "Home",
+      "date": "2019-08-19T00:41:00.000Z",
+      "time": "12:00",
+      "attendees": []
+    },
+    {
+      "id": 608304,
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Dinner",
+      "description": "A meal near the end of the day",
+      "location": "Home",
+      "date": "2019-08-19T00:44:00.000Z",
+      "time": "18:00",
+      "attendees": []
+    },
+    {
+      "id": 7202951,
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "InsultFest",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7824006,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Pig Kissing Contest",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 3143935,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Pissing Contest",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6376313,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Wasting Money Contest",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7583333,
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Stare at old people",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 479228,
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Stare at normal people",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 3976767,
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tron"
+      },
+      "title": "Helloween",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }

@@ -102,6 +102,19 @@ small {
 }
 .-text-error {
   color: tomato;
+  border: 2px solid black;
+  padding: 0.5vw 1vw;
+  border-radius: 4px;
+  font-weight: bold;
+  background-color: #ccff99;
+}
+.-text-success {
+  color: #e68a00;
+  border: 2px solid black;
+  padding: 0.5vw 1vw;
+  border-radius: 4px;
+  font-weight: bold;
+  background-color: #331a00;
 }
 .-text-gray {
   color: rgba(0, 0, 0, 0.5);

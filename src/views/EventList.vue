@@ -30,6 +30,9 @@ export default {
       perPage: this.perPage,
       page: this.page
     })
+
+    console.log('this.$route : ', this.$route)
+    console.log('this.$route.query : ', this.$route.query)
   },
   computed: {
     page() {

@@ -90,4 +90,12 @@ export default {
 .field {
   margin-bottom: 24px;
 }
+.button {
+  background-color: #39b982;
+  padding: 0.75vw;
+  border-radius: 4px;
+  font-weight: bold;
+  border: 2px solid black;
+  float: right;
+}
 </style>
